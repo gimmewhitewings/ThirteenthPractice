@@ -1,0 +1,11 @@
+<resources>
+    <string-array name="storage_entries">
+        <item>File</item>
+        <item>Data Base</item>
+    </string-array>
+
+    <string-array name="storage_values">
+        <item>file</item>
+        <item>data_base</item>
+    </string-array>
+</resources>
